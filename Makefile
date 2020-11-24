@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -std=c++11 -Wall -ftest-coverage -fprofile-arcs
+CXXFLAGS = -std=c++11 -Wall -ftest-coverage -fprofile-arcs -pthread
 
 OBJECTS =
 
